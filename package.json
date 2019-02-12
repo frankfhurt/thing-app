@@ -1,0 +1,19 @@
+{
+  "name": "thing-app",
+  "version": "1.0.0",
+  "description": "Thing app for connecting a thing to aws IoT",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thing",
+    "app",
+    "thing-app"
+  ],
+  "author": "Franklyn Vieira",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1"
+  }
+}
